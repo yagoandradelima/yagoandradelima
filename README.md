@@ -33,6 +33,6 @@ Seja bem-vindo ao meu perfil. Ainda há algumas organizações a serem realizada
 
 ## Você também pode me encontrar por aqui!
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/yago-andrade-806147192/))
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:yagoandradelima@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/yagoandradelima)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yago-andrade-806147192/)](https://www.linkedin.com/in/yago-andrade-806147192/)
+[![Gmail Badge](https://img.shields.io/badge/-yagoandradelima@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yagoandradelima@gmail.com)](mailto:yagoandradelima@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/yagoandradelima?label=follow&style=social)](https://github.com/yagoandradelima)
