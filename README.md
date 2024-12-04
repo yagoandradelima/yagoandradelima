@@ -3,10 +3,10 @@ Seja bem-vindo ao meu perfil. Ainda há algumas organizações a serem realizada
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software e hardware
-- 🎓 Cursando Engenharia da Computação na Faculdade Estácio de Sá.
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de análise e ciência de dados
+- 🎓 Engenheiro da Computação pela Estácio de Sá.
 - 💼 Trabalhando como Assistente de TI na Sá Cavalcante.
-- 🌱 Aprendendo mais sobre Análise e Visualização de dados e Machine Learning.
+- 🌱 Aprendendo mais sobre Análise, Visualização de dados e Machine Learning.
 
 ## Minhas Skills
 
